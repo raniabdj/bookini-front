@@ -1,0 +1,8 @@
+const actionTypes ={
+    BOOKS_LOAD_START: "BOOKS_LOAD_START",
+    BOOKS_LOAD_SUCCESS: "BOOKS_LOAD_SUCCESS",
+    BOOKS_LOAD_ERROR: "BOOKS_LOAD_ERROR",
+    BOOKS_ADD_NEW: "BOOKS_ADD_NEW",
+}
+
+export default actionTypes
